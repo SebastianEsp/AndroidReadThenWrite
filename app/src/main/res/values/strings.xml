@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReadThenWrite</string>
+    <string name="textView_Title">Read \'n Write</string>
+    <string name="action_settings">Settings</string>
+    <string name="editText_Write">Write something here</string>
+    <string name="button_SendText">Send</string>
+    <string name="textView_Show">Text will be showed here</string>
+    <string name="button_GetText">Get</string>
+</resources>
